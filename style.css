@@ -1,0 +1,30 @@
+body{
+font-family: Arial;
+background-color: #f4f4f4;
+text-align: center;
+}
+
+h1{
+color: #333;
+}
+
+.producto{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0px 2px 5px rgba(0,0,0,0.2);
+}
+
+button{
+background:#4CAF50;
+color:white;
+border:none;
+padding:10px;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:#45a049;
+  }
